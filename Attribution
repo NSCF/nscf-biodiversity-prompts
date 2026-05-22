@@ -1,0 +1,11 @@
+If you use or adapt a prompt from this repository, we ask that you credit the original author(s):
+
+In your project README or documentation: Include a brief acknowledgment (e.g., "Based on [Prompt Name] by [Author Name]")
+In code/prompt files: Add a comment referencing the original source and author
+For significant modifications: You can mark it as "Inspired by [original]" or "Adapted from [original]"
+
+Example:
+# Prompt: Extract biodiversity metadata
+# Original author: ...
+# Source: https://github.com/[your-org]/[your-repo]/blob/main/prompts/biodiversity-metadata.md
+We appreciate credit, but the license is permissive—feel free to modify and redistribute. Attribution is a courtesy that helps the community understand where ideas came from.
